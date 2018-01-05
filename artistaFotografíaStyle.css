@@ -1,0 +1,230 @@
+body{
+    font-family: "Helvetica", "Arial";
+}
+
+IMG.imgcenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border:none;
+}
+
+#header-inner{
+    background: transparent no-repeat;
+    width: 100%;
+    height: 100%;
+
+}
+
+.navigation{
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    padding: 0% 25%;
+    width: 49%;
+}
+
+.nav-menu {
+    display: inline-block;
+    text-decoration: none;
+    width: 100%;
+}
+
+.nav-menu li.active{
+    background: aqua;
+}
+
+.nav-menu li{
+    display: inline-block;
+    margin: 0 1%;
+    font-size: 100%;
+    font-weight: 700;
+    color: blue;
+}
+.nav-menu li a{
+    text-decoration: none;
+}
+.nav-menu li a:hover{
+    background: #b1bdd7;
+}
+
+#second-section {
+    font-size: 120%;
+    width: 100%;
+    height: 100%;
+}
+
+.caption-text {
+    position: absolute;
+    bottom: 35%;
+    left: 54%;
+    right: 26%;
+    color: #143788;
+    text-align: justify;
+    transform: rotate(-3deg);
+}
+
+
+.caption-image-foto1{
+    position: absolute;
+    bottom: 52.5%;
+    left:15.2%;
+    transform: rotate(19deg);
+}
+.caption-image-foto1-sin{
+    position: absolute;
+    bottom: 52.5%;
+    left:15.2%;
+    transform: rotate(19deg);
+}
+.caption-image-foto1:hover {
+    opacity: 0;
+}
+
+.caption-image-foto2{
+    position: absolute;
+    bottom:46%;
+    left:30.7%;
+    transform: rotate(11deg);
+}
+
+.caption-image-foto2-sin{
+    position: absolute;
+    bottom:46%;
+    left:30.7%;
+    transform: rotate(11deg);
+}
+.caption-image-foto2:hover {
+    opacity: 0;
+}
+
+.caption-image-foto3{
+    position: absolute;
+    bottom:46%;
+    left:45.6%;
+    transform: rotate(-11deg);
+}
+
+.caption-image-foto3-sin{
+    position: absolute;
+    bottom:46%;
+    left:45.6%;
+    transform: rotate(-11deg);
+}
+
+.caption-image-foto3:hover{
+    opacity: 0;
+}
+
+.caption-image-foto4{
+    position: absolute;
+    bottom:50.6%;
+    left:62.2%;
+    transform: rotate(-7deg);
+}
+
+.caption-image-foto4-sin{
+    position: absolute;
+    bottom:50.6%;
+    left:62.2%;
+    transform: rotate(-7deg);
+}
+
+.caption-image-foto4:hover{
+    opacity: 0;
+}
+
+.caption-image-foto5{
+    position: absolute;
+    bottom:10.5%;
+    left:27.2%;
+    transform: rotate(19deg);
+}
+
+.caption-image-foto5-sin{
+    position: absolute;
+    bottom:10.5%;
+    left:27.2%;
+    transform: rotate(19deg);
+}
+
+.caption-image-foto5:hover{
+    opacity: 0;
+}
+
+
+.caption-image-foto6{
+    position: absolute;
+    bottom:4.2%;
+    left:43%;
+    transform: rotate(11deg);
+}
+
+.caption-image-foto6-sin{
+    position: absolute;
+    bottom:4.2%;
+    left:43%;
+    transform: rotate(11deg);
+}
+
+.caption-image-foto6:hover{
+    opacity: 0;
+}
+
+.caption-image-foto7{
+    position: absolute;
+    bottom:4.2%;
+    left:58%;
+    transform: rotate(-11deg);
+}
+
+.caption-image-foto7-sin{
+    position: absolute;
+    bottom:4.2%;
+    left:58%;
+    transform: rotate(-11deg);
+}
+
+.caption-image-foto7:hover{
+    opacity: 0;
+}
+
+.caption-image-foto8{
+    position: absolute;
+    bottom:9%;
+    left:74.5%;
+    transform: rotate(-7deg);
+}
+
+.caption-image-foto8-sin{
+    position: absolute;
+    bottom:9%;
+    left:74.5%;
+    transform: rotate(-7deg);
+}
+
+.caption-image-foto8:hover{
+    opacity: 0;
+}
+
+.caption-text-foto1{
+    position: absolute;
+    color: transparent;
+    bottom: 52.5%;
+    left:15.2%;
+    transform: rotate(19deg);
+}
+
+.caption-text-foto3{
+    font-size: 14px;
+    color: #ffffff;
+    position: absolute;
+    text-align: center;
+    font-size: 8px;
+    bottom:60%;
+    left:45%;
+    transform: rotate(-11deg);
+}
+
+
+

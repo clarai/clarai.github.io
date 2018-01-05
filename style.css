@@ -1,0 +1,46 @@
+@import 'https://fonts.googleapis.com/css?family=Alegreya+Sans';
+
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body{
+	font-family: "Helvetica", "Arial";
+}
+
+IMG.imgcenter{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      border:none;
+      }
+
+#ingeniera{
+	cursor: pointer;
+	
+}
+
+#artista{
+	cursor: pointer;
+}
+
+.caption-text{
+	position: absolute;
+	text-align: center;
+	bottom: 65%;
+	left: 46%;
+	cursor: pointer;
+	color: #143788;
+}
+
+.caption-text a{
+	text-decoration: none;
+	font-size: 120%;
+	font-weight: 700;
+}
+
+.caption-text a:hover{
+	background: #b1bdd7;
+}

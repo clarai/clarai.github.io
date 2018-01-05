@@ -1,0 +1,208 @@
+body{
+    font-family: "Helvetica", "Arial";
+}
+
+IMG.imgcenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border:none;
+}
+
+#header-inner{
+    background: transparent no-repeat;
+    width: 100%;
+    height: 100%;
+
+}
+
+.navigation{
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    padding: 0% 25%;
+    width: 49%;
+}
+
+.nav-menu {
+    display: inline-block;
+    text-decoration: none;
+    width: 100%;
+}
+
+.nav-menu li.active{
+    background: aqua;
+}
+
+.nav-menu li{
+    display: inline-block;
+    margin: 0 1%;
+    font-size: 100%;
+    font-weight: 700;
+    color: blue;
+}
+.nav-menu li a{
+    text-decoration: none;
+}
+.nav-menu li a:hover{
+    background: #b1bdd7;
+}
+
+#second-section {
+    font-size: 120%;
+    width: 100%;
+    height: 100%;
+}
+
+.caption-text{
+    position: absolute;
+    bottom: 45%;
+    left: 44%;
+    right: 28%;
+    color: #143788;
+    text-align: justify;
+}
+.caption-image{
+    position: absolute;
+    bottom: 46.5%;
+    left:27%;
+}
+
+.caption-text-languages{
+    position: absolute;
+    bottom: 72%;
+    left: 30%;
+    color: #143788;
+    text-align: justify;
+    text-decoration: underline;
+}
+
+.caption-text-languages-notes{
+    position: absolute;
+    bottom: 60%;
+    left: 26.5%;
+    color: #143788;
+    font-size: 15px;
+    text-align: center;
+}
+
+.caption-text-eso{
+    position: absolute;
+    bottom:7%;
+    left: 19.6%;
+    color: #ffffff;
+    text-align: center;
+    font-size: 15px;
+    transform: rotate(1deg);
+    line-height: 3px;
+}
+
+.caption-text-eso h4{
+    text-decoration: underline;
+}
+
+.caption-text-expediente{
+    position: absolute;
+    bottom:2%;
+    left: 23%;
+    color: #ffffff;
+    text-align: center;
+    font-size: 12px;
+    transform: rotate(1deg);
+}
+
+.caption-text-eso-fecha{
+    position: absolute;
+    bottom:5%;
+    left: 14.5%;
+    color: #ffffff;
+    text-align: center;
+    font-size: 16px;
+    transform: rotate(1deg);
+    line-height: 3px;
+}
+
+
+
+.caption-text-bach-fecha{
+    position: absolute;
+    bottom:19%;
+    left: 14%;
+    color: #ffffff;
+    text-align: center;
+    font-size: 16px;
+    transform: rotate(1deg);
+    line-height: 3px;
+}
+
+.caption-text-bach{
+    position: absolute;
+    bottom:18%;
+    left:22%;
+    color: #ffffff;
+    text-align: center;
+    font-size: 15px;
+    transform: rotate(1deg);
+    line-height: 3px;
+}
+
+.caption-text-bach h4{
+    text-decoration: underline;
+}
+
+
+.caption-text-grado-fecha{
+    position: absolute;
+    bottom:32%;
+    left: 12.5%;
+    color: #ffffff;
+    text-align: center;
+    font-size: 15.5px;
+    transform: rotate(1deg);
+    line-height: 3px;
+}
+
+.caption-text-grado{
+    position: absolute;
+    bottom:30%;
+    left:22%;
+    color: #ffffff;
+    text-align: center;
+    font-size: 15px;
+    transform: rotate(1deg);
+    line-height: 3px;
+}
+
+.caption-text-grado h4{
+    text-decoration: underline;
+}
+
+
+.caption-text-cursos{
+    position: absolute;
+    bottom: 66%;
+    left: 65%;
+    color: #143788;
+    text-align: justify;
+    text-decoration: underline;
+    transform: rotate(2deg);
+
+}
+
+.caption-text-cursos-contenido{
+    position: absolute;
+    bottom: 16%;
+    left: 61%;
+    color: #143788;
+    transform: rotate(2deg);
+    font-size: 14px;
+    line-height: 10px;
+}
+
+.info-curso{
+    font-style: italic;
+}
+
+.nombre-curso{
+    font-weight: bold;
+}

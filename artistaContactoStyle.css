@@ -1,0 +1,168 @@
+body{
+    font-family: "Helvetica", "Arial";
+}
+
+IMG.imgcenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border:none;
+}
+
+#header-inner{
+    background: transparent no-repeat;
+    width: 100%;
+    height: 100%;
+
+}
+
+.navigation{
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    padding: 0% 25%;
+    width: 49%;
+}
+
+.nav-menu {
+    display: inline-block;
+    text-decoration: none;
+    width: 100%;
+}
+
+.nav-menu li.active{
+    background: aqua;
+}
+
+.nav-menu li{
+    display: inline-block;
+    margin: 0 1%;
+    font-size: 100%;
+    font-weight: 700;
+    color: blue;
+}
+.nav-menu li a{
+    text-decoration: none;
+}
+.nav-menu li a:hover{
+    background: #b1bdd7;
+}
+
+#second-section {
+    font-size: 120%;
+    width: 100%;
+    height: 100%;
+}
+
+.caption-text{
+    position: absolute;
+    bottom: 35%;
+    left: 54%;
+    right: 26%;
+    color: #143788;
+    text-align: justify;
+    transform: rotate(-3deg);
+}
+.caption-image-facebook{
+    position: absolute;
+    bottom: 34%;
+    left:15%;
+}
+
+.caption-image-facebook:hover{
+    transform: scale(1.1);
+    background-color: #ffffff;
+    border-radius: 50%;
+
+}
+
+.caption-image-blogger{
+    position: absolute;
+    bottom:2%;
+    left:48%;
+}
+
+.caption-image-blogger:hover{
+    transform: scale(1.1);
+    background-color: #ffffff;
+    border-radius: 50%;
+
+}
+
+
+.caption-image-instagram{
+    position: absolute;
+    bottom: 48%;
+    left:56%;
+}
+
+.caption-image-instagram:hover{
+    transform: scale(1.1);
+    background-color: #ffffff;
+    border-radius: 50%;
+
+}
+
+.caption-image-whatsapp{
+    position: absolute;
+    bottom: 20%;
+    left:68%;
+}
+
+.caption-image-whatsapp:hover{
+    transform: scale(1.1);
+    background-color: #ffffff;
+    border-radius: 50%;
+}
+
+
+.caption-image-youtube{
+     position: absolute;
+     bottom: 64%;
+     left:28%;
+ }
+
+.caption-image-youtube:hover{
+    transform: scale(1.1);
+    background-color: #ffffff;
+    border-radius: 50%;
+}
+
+
+.caption-image-twitter{
+     position: absolute;
+     bottom: 38%;
+     left:38%;
+ }
+
+.caption-image-twitter:hover{
+    transform: scale(1.1);
+    background-color: #ffffff;
+    border-radius: 50%;
+}
+
+
+.caption-image-googlemas{
+    position: absolute;
+    bottom:8%;
+    left:25%;
+}
+
+.caption-image-googlemas:hover{
+    transform: scale(1.1);
+    background-color: #ffffff;
+    border-radius: 50%;
+}
+
+
+.caption-image-correo{
+    position: absolute;
+    bottom: 64%;
+    left:72%;
+}
+
+.caption-image-correo:hover{
+    transform: scale(1.1);
+    background-color: #ffffff;
+    border-radius: 50%;
+}

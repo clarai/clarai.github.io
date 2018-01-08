@@ -26,7 +26,28 @@ IMG.imgcenter{
 	cursor: pointer;
 }
 
-.caption-text{
+.caption-text-ingeniera{
+	position: absolute;
+	text-align: center;
+	bottom: 80%;
+	left: 46%;
+	cursor: pointer;
+	color: #143788;
+}
+
+.caption-text-ingeniera a{
+	text-decoration: none;
+	font-size: 120%;
+	font-weight: 700;
+}
+
+.caption-text-ingeniera a:hover{
+	background: #b1bdd7;
+	border-radius: 32%;
+	font-size: 132%;
+}
+
+.caption-text-artista{
 	position: absolute;
 	text-align: center;
 	bottom: 65%;
@@ -35,12 +56,15 @@ IMG.imgcenter{
 	color: #143788;
 }
 
-.caption-text a{
+.caption-text-artista a{
 	text-decoration: none;
 	font-size: 120%;
 	font-weight: 700;
 }
 
-.caption-text a:hover{
+.caption-text-artista a:hover{
 	background: #b1bdd7;
+	border-radius: 32%;
+	font-size: 132%;
 }
+

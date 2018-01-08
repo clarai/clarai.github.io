@@ -49,7 +49,6 @@ IMG.imgcenter{
 }
 
 #second-section {
-    font-size: 120%;
     width: 100%;
     height: 100%;
 }
@@ -71,33 +70,40 @@ IMG.imgcenter{
 
 .sistemas-operativos{
     position: absolute;
-    bottom: 58%;
-    left: 26%;
+    bottom: 57%;
+    left: 18%;
     color: #ffffff;
     text-align: center;
 }
 
-.sistemas-operativos p{
+.content-cono{
     color: #143788;
     text-align: justify;
 }
 
 .entornos-desarrollo{
     position: absolute;
-    bottom: 37%;
-    left: 25%;
+    bottom: 14%;
+    left: 17%;
     color: #ffffff;
     text-align: center;
 }
 
 .lenguajes-programacion{
     position: absolute;
-    bottom: 68%;
-    left: 71%;
+    bottom: 28%;
+    left: 77%;
     color: #ffffff;
     text-align: center;
 }
 
+.habilidades-adquiridas{
+    position: absolute;
+    bottom: 26%;
+    left: 45%;
+    color: #ffffff;
+    text-align: center;
+}
 
 .cono{
     text-decoration: underline;

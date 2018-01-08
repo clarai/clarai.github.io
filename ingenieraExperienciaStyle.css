@@ -70,8 +70,8 @@ IMG.imgcenter{
 
 .experiencia1{
     position: absolute;
-    bottom: 75%;
-    left: 12%;
+    bottom: 82%;
+    left: 10%;
     color: #143788;
     line-height: 12px;
 }
@@ -86,16 +86,24 @@ IMG.imgcenter{
 
 .descripcion-experiencia{
     position: fixed;
-    left: 12%;
+    left: 10%;
     right: 45%;
-    line-height: 16px;
+    line-height: 18px;
     text-align: justify;
 }
 
 .experiencia2{
     position: absolute;
-    bottom: 25%;
-    left: 55%;
+    bottom: 26%;
+    left: 45%;
     color: #143788;
     line-height: 12px;
+}
+
+.descripcion-experiencia2{
+    position: fixed;
+    left: 45%;
+    right: 10%;
+    line-height: 18px;
+    text-align: justify;
 }

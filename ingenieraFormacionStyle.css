@@ -165,7 +165,7 @@ IMG.imgcenter{
 .caption-text-grado{
     position: absolute;
     bottom:30%;
-    left:22%;
+    left:20%;
     color: #ffffff;
     text-align: center;
     font-size: 15px;
@@ -191,7 +191,7 @@ IMG.imgcenter{
 
 .caption-text-cursos-contenido{
     position: absolute;
-    bottom: 16%;
+    bottom: 14%;
     left: 61%;
     color: #143788;
     transform: rotate(2deg);

@@ -90,10 +90,15 @@ IMG.imgcenter{
     left: 15.8%;
 }
 
-.practica4{
+.practica4, .practica4-hover{
     position: absolute;
     bottom: 18.5%;
     left: 39.3%;
+}
+
+.practica4:hover{
+    cursor: pointer;
+    opacity: 0;
 }
 
 .practica5{
